@@ -1,9 +1,9 @@
 [
 	{
 		"id": 5,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Towards Generalized Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "H. Ibrahim, F. Liu, R. Asim, T., Y. Zaki et al.",
+		"title": "Perception, performance, and detectability of conversational artificial intelligence across 32 university courses",
+		"conference": "In Scientific Reports 13 (1), 12187",
 		"links": [
 			{
 				"name": "pdf",
@@ -12,6 +12,10 @@
 			{
 				"name": "slides",
 				"url": ""
+			},
+			{
+				"name": "link",
+				"url": "https://www.nature.com/articles/s41598-023-38964-3"
 			},
 			{
 				"name": "video",
@@ -22,9 +26,9 @@
 
 	{
 		"id": 4,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Rethinking Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "H Ibrahim, R Asim, F Zaffar, T Rahwan, Y Zaki",
+		"title": "Rethinking homework in the age of artificial intelligence",
+		"conference": "IEEE Intelligent Systems 38 (2), 24-27",
 		"links": [
 			{
 				"name": "pdf",
@@ -33,6 +37,10 @@
 			{
 				"name": "slides",
 				"url": ""
+			},
+			{
+				"name": "link",
+				"url": "https://ieeexplore.ieee.org/abstract/document/10111520"
 			},
 			{
 				"name": "video",
@@ -43,9 +51,9 @@
 
 	{
 		"id": 3,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Pushing the Limits of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "M Chaqfeh, R Asim, B AlShebli, MF Zaffar, T Rahwan, Y Zaki",
+		"title": "Towards a world wide web without digital inequality",
+		"conference": "Proceedings of the National Academy of Sciences 120 (3), e2212649120",
 		"links": [
 			{
 				"name": "pdf",
@@ -54,6 +62,10 @@
 			{
 				"name": "slides",
 				"url": ""
+			},
+			{
+				"name": "link",
+				"url": "https://www.pnas.org/doi/abs/10.1073/pnas.2212649120"
 			},
 			{
 				"name": "video",
@@ -64,9 +76,9 @@
 
 	{
 		"id": 2,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "Defensing Against the Dark Arts Spells based on Reductor Curse",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "H Ibrahim, R Asim, M Varvello, Y Zaki",
+		"title": "I Tag, You Tag, Everybody Tags!",
+		"conference": "In Proceedings of the 2023 ACM on Internet Measurement Conference, 561-568",
 		"links": [
 			{
 				"name": "pdf",
@@ -75,6 +87,10 @@
 			{
 				"name": "slides",
 				"url": ""
+			},
+			{
+				"name": "link",
+				"url": "https://dl.acm.org/doi/abs/10.1145/3618257.3624834"
 			},
 			{
 				"name": "video",
@@ -85,9 +101,9 @@
 
 	{
 		"id": 1,
-		"author": "P.Harry, A.Dumbledor",
-		"title": "A Survey of Defensing Against the Dark Arts Spells",
-		"conference": "In Proc of ACM Conference of Magic, Hogwarts Owlery, England.",
+		"author": "Y Zaki, R Asim, M Khan, S Iyer, T Ahmad, T Potsch, L Subramanian",
+		"title": "ALCC: Migrating Congestion Control To The Application Layer In Cellular Networks",
+		"conference": "Journal of Systems Research 2 (1)",
 		"links": [
 			{
 				"name": "pdf",
@@ -96,6 +112,10 @@
 			{
 				"name": "slides",
 				"url": ""
+			},
+			{
+				"name": "link",
+				"url": "https://escholarship.org/uc/item/3989w2s4"
 			},
 			{
 				"name": "video",

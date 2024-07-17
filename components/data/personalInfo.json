@@ -1,38 +1,37 @@
 {
-    "title": "Harry Potter",
-    "name": "Harry James Potter",
+    "title": "Rohail Asim",
+    "name": "Rohail Asim",
     "domain":"https://nextjs-academic-theme.vercel.app/",
-    "copyright":"harrypotter.me",
+    "copyright":"Rohail Asim",
     "socialMedia": {
-        "Twitter": "https://twitter.com/",
-        "LinkedIn": "https://www.linkedin.com/",
-        "GoogleScholar": "https://scholar.google.com/"
+        "LinkedIn": "https://www.linkedin.com/in/rohail-asim/",
+        "GoogleScholar": "https://scholar.google.com/citations?user=wCQfM-0AAAAJ&hl=en"
     },
     "about": {
-        "year": "7th-year",
+        "year": "5th-year",
         "department": {
-            "name": "Gryffindor",
+            "name": "Courant",
             "link": "https://harrypotter.fandom.com/wiki/Gryffindor"
         },
         "college": {
-            "name": "Hogwarts School of Witchcraft and Wizardry",
+            "name": "New York University",
             "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
         },
         "advisor": {
-            "name": "Albus Dumbledor",
-            "link": "https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
+            "name": "Yasir Zaki",
+            "link": "https://yasirzaki.net/"
         },
-        "email": "harrypotter AT MyUniversity",
-        "interest": "Defense against Dark Arts Spell; Dark Creatures"
+        "email": "rohail.asim@nyu.edu",
+        "interest": "Computer Networks"
     },
     "love": "https://harrypotter.fandom.com/wiki/James_and_Lily_Potter",
     "education": [
         {
-            "name": "The Auror Department(2007-2008, Visiting Scholar)",
+            "name": "New York University (2020-Present, PhD Candidate)",
             "link": "https://harrypotter.fandom.com/wiki/British_Auror_Office"
         },
         {
-            "name": "Hogwarts Primary University(1911-1988, Bachelor's in Magic)",
+            "name": "Lahore University of Management Sciences (LUMS) (2015-2019, Bachelor's in Computer Science)",
             "link": "https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry"
         }
     ]
