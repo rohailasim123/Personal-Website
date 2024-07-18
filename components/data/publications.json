@@ -1,5 +1,30 @@
 [
 	{
+		"id": 6,
+		"author": "R Asim, L Subramanian, and Y Zaki",
+		"title": "Impact of Congestion Control on Mixed Reality Applications",
+		"conference": "EMS '24: Proceedings of the 2024 SIGCOMM Workshop on Emerging Multimedia Systems",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			},
+			{
+				"name": "link",
+				"url": "https://dl.acm.org/doi/10.1145/3672196.3673395"
+			},
+			{
+				"name": "video",
+				"url": ""
+			}
+		]
+	},
+
+	{
 		"id": 5,
 		"author": "H. Ibrahim, F. Liu, R. Asim, T., Y. Zaki et al.",
 		"title": "Perception, performance, and detectability of conversational artificial intelligence across 32 university courses",
