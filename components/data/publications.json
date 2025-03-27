@@ -28,7 +28,7 @@
 		"id": 9,
 		"author": "A Pandey, R Asim, K Mengal, M Varvello, and Y Zaki",
 		"title": "SONIC: Connect the Unconnected via FM Radio & SMS",
-		"conference": "Accepted at the ACM 20th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 2024)",
+		"conference": "Proceedings of the 20th International Conference on emerging Networking EXperiments and Technologies",
 		"links": [
 			{
 				"name": "pdf",
@@ -40,7 +40,7 @@
 			},
 			{
 				"name": "link",
-				"url": ""
+				"url": "https://dl.acm.org/doi/10.1145/3680121.3697812"
 			},
 			{
 				"name": "video",
@@ -51,6 +51,31 @@
 	
 	{
 		"id": 8,
+		"author": "R Asim, A Sathiaseelan, A Chatterjee, M Lal, Y Zaki, L Subramanian",
+		"title": "The GAIUS Experience: Powering a Hyperlocal Mobile Web for Communities in Emerging Regions",
+		"conference": "Proceedings of the 13th International Conference on Information & Communication Technologies and Development",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			},
+			{
+				"name": "link",
+				"url": "https://dl.acm.org/doi/10.1145/3700794.3700818"
+			},
+			{
+				"name": "video",
+				"url": ""
+			}
+		]
+	},
+
+	{
+		"id": 7,
 		"author": "R Asim, A Bhardwaj, L Subramanian, and Y Zaki",
 		"title": "Enabling High Bandwidth Applications over 5G Environments",
 		"conference": "Demo in ACM SIGCOMM 2024",
@@ -74,8 +99,9 @@
 		]
 	},	
 	
+	
 	{
-		"id": 7,
+		"id": 6,
 		"author": "A Pandey, R Asim, M Varvello, Y Zaki",
 		"title": "Connecting the Unconnected Using FM Radio",
 		"conference": "Demo in ACM SIGCOMM 2024",
@@ -100,7 +126,7 @@
 	},
 	
 	{
-		"id": 6,
+		"id": 5,
 		"author": "A Pandey, R Asim, M Varvello, L Subramanian, Y Zaki ",
 		"title": "Towards Faster Web in Developing Regions",
 		"conference": "Demo in ACM SIGCOMM 2024",
@@ -125,7 +151,7 @@
 	},
 
 	{
-		"id": 5,
+		"id": 4,
 		"author": "H. Ibrahim, F. Liu, R. Asim, T., Y. Zaki et al.",
 		"title": "Perception, performance, and detectability of conversational artificial intelligence across 32 university courses",
 		"conference": "In Scientific Reports 13 (1), 12187",
@@ -150,7 +176,7 @@
 	},
 
 	{
-		"id": 4,
+		"id": 3,
 		"author": "H Ibrahim, R Asim, F Zaffar, T Rahwan, Y Zaki",
 		"title": "Rethinking homework in the age of artificial intelligence",
 		"conference": "IEEE Intelligent Systems 38 (2), 24-27",
@@ -175,7 +201,7 @@
 	},
 
 	{
-		"id": 3,
+		"id": 2,
 		"author": "M Chaqfeh, R Asim, B AlShebli, MF Zaffar, T Rahwan, Y Zaki",
 		"title": "Towards a world wide web without digital inequality",
 		"conference": "Proceedings of the National Academy of Sciences 120 (3), e2212649120",
@@ -200,7 +226,7 @@
 	},
 
 	{
-		"id": 2,
+		"id": 1,
 		"author": "H Ibrahim, R Asim, M Varvello, Y Zaki",
 		"title": "I Tag, You Tag, Everybody Tags!",
 		"conference": "In Proceedings of the 2023 ACM on Internet Measurement Conference, 561-568",
@@ -225,7 +251,7 @@
 	},
 
 	{
-		"id": 1,
+		"id": 0,
 		"author": "Y Zaki, R Asim, M Khan, S Iyer, T Ahmad, T Potsch, L Subramanian",
 		"title": "ALCC: Migrating Congestion Control To The Application Layer In Cellular Networks",
 		"conference": "Journal of Systems Research 2 (1)",
