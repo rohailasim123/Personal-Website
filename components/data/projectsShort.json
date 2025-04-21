@@ -1,0 +1,26 @@
+[
+
+    {
+        "title": "Impact of Congestion Control on Mixed Reality Applications",
+        "description": "",
+        "img": "/images/projects/zeusthumb.jpg"
+    },
+
+    {
+        "title": "SONIC: Connect the Unconnected via FM Radio & SMS",
+        "description": "",         
+        "img": "/images/projects/sonicthumb.gif"
+    },
+
+    {
+        "title": "Sustainable Computing",
+        "description": "",
+        "img": "/images/projects/sustainability.png"
+    },
+
+    {
+        "title": "Evaluating Congestion Control Protocols in 5G Environments",
+        "description": "A tool help you win Quidditch Cup Champion",
+        "img": "/images/projects/zeusthumb2.png"
+    }
+]
