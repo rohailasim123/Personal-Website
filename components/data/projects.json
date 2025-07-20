@@ -29,7 +29,21 @@
     },
 
     {
-        "title": "Understanding and Mitigating Traffic Jams",
+        "title": "Towards a world wide web without digital inequality",
+        "description": "The World Wide Web (WWW) empowers people in developing regions by eradicating illiteracy, supporting women, and generating economic opportunities. However, their reliance on limited bandwidth and low-end phones leaves them with a poorer browsing experience compared to privileged users across the digital divide. To evaluate the extent of this phenomenon, we sent participants to 56 cities to measure the cost of mobile data and the average page load time. We found the cost to be orders of magnitude greater, and the average page load time to be four times slower, in some locations compared to others. Addressing this digital inequality through new infrastructure takes years to complete and billions of dollars to finance. A more practical solution is to make the webpages more accessible by reducing their size and optimizing their load time. To this end, we developed a solution called Lite-Web and evaluated it in the Gilgit-Baltistan province of Pakistan, demonstrating that it transforms the browsing experience of a Pakistani villager using a low-end phone to almost that of a Dubai resident using a flagship phone.",
+        "img": "/images/projects/digitaldividethumb.png",
+        "href": "/project/digitaldivide"
+    },
+
+    {
+        "title": "Rethinking homework in the age of AI",
+        "description": "Breakthroughs in Artificial Intelligence have fueled a rising demand for a broad spectrum of services harnessing these advanced technologies. These high-demand services rely on data centers, which consume significant amounts of electricity. The resulting carbon emissions from these data centers threaten to exacerbate the climate crisis. Unfortunately, in their current state, it is challenging to rely solely on renewable energy sources such as wind energy and solar energy to support these energy demands in an economically feasible manner. New policies are being implemented to reduce carbon emissions, prompting the need for sustainable design in new systems, such as data centers for AI computation. To satisfy these policy requirements and mitigate carbon emissions, any new system must prioritize sustainability. This project aims to develop a system to assess the economic feasibility of sustainable computing within AI services. The simulator will model interactions between key stakeholders and evaluate the environmental and economic impact of sustainability policies.",
+        "img": "/images/projects/AIHomework.png",
+        "href": "/project/homeworkai"
+    },
+
+    {
+        "title": "Understanding and Mitigating Traffic Jams Using Edge AI",
         "description": "Road traffic congestion remains a persistent challenge in urban and suburban areas worldwide, significantly impacting productivity, fuel consumption, and quality of life. While sudden traffic jams can rapidly emerge even without obvious infrastructure bottlenecks, existing traffic control methods often rely on expensive infrastructure upgrades and reactive mechanisms. This project aims to address congestion proactively by combining an in-depth understanding of sudden jam emergence with reinforcement learning-based, infrastructure-free traffic control solutions.",
         "img": "/images/projects/selfregcars.png",
         "href": "https://sites.google.com/view/ankitbhardwaj/Projects/vehicular-traffic-management?authuser=0"
