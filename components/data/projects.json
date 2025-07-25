@@ -2,7 +2,7 @@
     {
         "title": "Enabling High Bandwidth Applications over 5G Environments",
         "description": "Millimeter wave technology, commonly known as mmWave, is a vital enabler of the next generation of last-hop communications for mobile devices, with the potential to offer ultra-high-speed wireless communications. These advancements have enabled a range of new applications that employ Virtual Reality (VR) and Augmented Reality (AR) to create numerous promising applications in various fields such as entertainment, education, and healthcare. However, current congestion control protocols are predominantly throughput-oriented and not suitable for handling the strict low-latency and high-throughput requirements imposed by many of the forthcoming new applications. We propose a new delay-based tunable approach to congestion control that relies on looking ahead in time to better control the sending rate while maintaining low latency, making it suitable for AR/VR applications.",
-        "img": "/images/projects/zeusthumb.jpg",
+        "img": "/images/projects/xrthumb.png",
         "href": "/project/extendedreality"
     },
     
