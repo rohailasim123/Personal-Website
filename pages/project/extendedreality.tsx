@@ -74,7 +74,7 @@ const Hera: NextPage = () => {
         {/* </section> */}
 
 
-        <section className="mb-10">
+        {/* <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-2">Citation</h2>
           <pre className="bg-black-100 p-4 rounded text-sm overflow-x-auto">
 {`@inproceedings{10.1145/3672196.3673395,
@@ -97,7 +97,7 @@ booktitle = {Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos},
 location = {Sydney, NSW, Australia},
 }`}
           </pre>
-        </section>
+        </section> */}
 
                 <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">Collaborators</h2>

@@ -50,7 +50,7 @@ const HomeworkAI: NextPage = () => {
           </p>
         </section>
 
-        <section className="mb-10">
+        {/* <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-2">Citation</h2>
           <pre className="bg-black-100 p-4 rounded text-sm overflow-x-auto">
 {`@article{ibrahim2023perception,
@@ -72,7 +72,7 @@ const HomeworkAI: NextPage = () => {
   pages={24-27},
   doi={10.1109/MIS.2023.3255599}}`}
           </pre>
-        </section>        
+        </section>         */}
         
     <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">Collaborators</h2>

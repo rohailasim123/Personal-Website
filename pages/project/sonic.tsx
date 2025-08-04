@@ -53,7 +53,7 @@ Over 2.6 billion people remain without access to the Internet in 2025. This phen
 
 
 
-        <section className="mb-10">
+        {/* <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-2">Citations</h2>
           <pre className="bg-black-100 p-4 rounded text-sm overflow-x-auto">
 {`@inproceedings{10.1145/3680121.3697812,
@@ -76,7 +76,7 @@ primaryClass={cs.NI},
 url={https://arxiv.org/abs/2505.16519}, 
 }`}
           </pre>
-        </section>
+        </section> */}
 
         <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">Collaborators</h2>

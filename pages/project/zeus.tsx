@@ -58,7 +58,7 @@ const ALCCZeus: NextPage = () => {
           </ul>
         </section>
 
-        <section className="mb-10">
+        {/* <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-2">Citations</h2>
           <pre className="bg-black-100 p-4 rounded text-sm overflow-x-auto">
 {`@misc{asim2022zeus,
@@ -78,7 +78,7 @@ year={2021},
 url={https://openreview.net/forum?id=moVPhXtxQo7}
 }`}
           </pre>
-        </section>
+        </section> */}
 
         <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-2">Collaborators</h2>

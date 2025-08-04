@@ -52,7 +52,7 @@ const DigitalDivide: NextPage = () => {
         </section>
 
 
-        <section className="mb-10">
+        {/* <section className="mb-10">
           <h2 className="text-2xl font-semibold mb-2">Citation</h2>
           <pre className="bg-black-100 p-4 rounded text-sm overflow-x-auto">
 {`@article{10.1073/pnas.2212649120,
@@ -79,7 +79,7 @@ location = {Sydney, NSW, Australia},
 series = {ACM SIGCOMM Posters and Demos '24}
 }`}
           </pre>
-        </section>
+        </section> */}
 
         <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-2">Collaborators</h2>
