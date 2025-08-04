@@ -1,20 +1,51 @@
+import { motion } from 'framer-motion';
+
 interface ProjectProps {
-    project: any;
-    index: number;
+  project: any;
+  index: number;
 }
 
-const ProjectItem = ({project, index}: ProjectProps): JSX.Element => {
-    return (
-      <a href={project.href} target={index == 5 ? "_blank" : ""}>
-        <div className="shadow-lg mb-8 mx-auto lg:w-14/15 lg:flex lg:flex-row lg:h-auto">
-          <img className="rounded-tr-lg rounded-tl-lg h-68 w-full lg:h-auto lg:w-6/12 lg:rounded-bl-lg lg:rounded-tr-none" src={project.img} alt="" />
-          <div className="w-full bg-gray-50 p-8 rounded-bl-lg rounded-br-lg lg:rounded-bl-none lg:rounded-tr-lg">
-            <h2 className="text-gray-700 font-semibold">{project.title}</h2>
-            <p className="text-sm text-gray-500 mt-4">{project.description}</p>
+const ProjectItem = ({ project, index }: ProjectProps): JSX.Element => {
+  return (
+    <motion.a
+      href={project.href}
+      target={index == 5 ? "_blank" : ""}
+      rel="noopener noreferrer"
+      className="block"
+      initial={{ opacity: 0, scale: 0.95 }}
+      whileInView={{ opacity: 1, scale: 1 }}
+      viewport={{ once: true }}
+      transition={{ duration: 0.5, ease: 'easeOut' }}
+    >
+      <div className="rounded-2xl shadow-lg overflow-hidden transform hover:-translate-y-2 transition duration-300 bg-white flex flex-col h-full">
+        {/* Image */}
+        <div className="w-full aspect-square">
+          <img
+            src={project.img}
+            alt={project.title}
+            className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+          />
+        </div>
+
+        {/* Text & button */}
+        <div className="p-4 flex flex-col flex-grow justify-between">
+          <div>
+            <h3 className="text-lg font-semibold text-gray-900 mb-1">
+              {project.title}
+            </h3>
+            <p className="text-sm text-gray-600 mb-3">
+              {project.short || project.title}
+            </p>
+          </div>
+          <div>
+            <span className="inline-block px-4 py-2 mt-auto text-sm font-medium text-indigo-600 bg-indigo-50 rounded hover:bg-indigo-100 transition">
+              Read more →
+            </span>
           </div>
         </div>
-      </a>
-    )
+      </div>
+    </motion.a>
+  );
 };
 
 export default ProjectItem;

@@ -16,7 +16,7 @@ const About = (): JSX.Element => {
 					<br /><ExtLink href="mailto:rohail.asim@nyu.edu"> ✉️ rohail.asim@nyu.edu </ExtLink>
 					</p> 
 				</div>
-				<div className="flex flex-col max-w-xl w-full justify-evenly">
+				<div className="flex flex-col w-full justify-evenly">
 					<h1 className="text-4xl font-bold pb-8 md:pb-0">{personalInfo.name}</h1>
 					{/* <p>
 						I am a {personalInfo.about.year} PhD student

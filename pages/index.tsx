@@ -6,6 +6,7 @@ import Teaching from '../components/Teaching';
 import Education from '../components/Education';
 import MediaCoveragePreview from '../components/MediaCov';
 import ProjectListPreview from '../components/ProjectListPreview';
+import ProjectList from '../components/ProjectList';
 
 const Index: NextPage<unknown> = () => (
     <>

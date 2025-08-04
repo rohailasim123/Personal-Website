@@ -42,6 +42,7 @@
         "@headlessui/react": "^1.7.18",
         "@n8tb1t/use-scroll-position": "^2.0.3",
         "@types/three": "^0.178.1",
+        "framer-motion": "^12.23.12",
         "graphql": "^16.8.1",
         "graphql-request": "^6.1.0",
         "next": "^13.5.6",

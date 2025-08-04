@@ -23,7 +23,7 @@ const Header = ({mounted, resolvedTheme, setTheme, scrolled}: HeaderProps): JSX.
                 <nav className="flex items-center justify-between pr-4">
                     <NavLink title="About" href="/"/>
                     <NavLink title="Publications" href="/#publications"/>
-                    <NavLink title="Projects" href="/projects"/>
+                    <NavLink title="Projects" href="/#projects"/>
                     <NavLink title="Media Coverage" href="/media"/>
                     {/* <NavLink title="Misc" href="/misc"/> */}
 
