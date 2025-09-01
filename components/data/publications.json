@@ -1,5 +1,30 @@
 [
 	{
+		"id": 11,
+		"author": "R Asim, A Bhardwaj, A Sathiaseelan, Y Zaki, and L Subramanian",
+		"title": "Modeling Economic Viability for Scalable AI Deployment in Emerging Regions",
+		"conference": "Accepted at PACMI'25: Proceedings of the 2025 SOSP Workshop on Practical Adoption Challenges of ML for Systems",
+		"links": [
+			{
+				"name": "pdf",
+				"url": ""
+			},
+			{
+				"name": "slides",
+				"url": ""
+			},
+			{
+				"name": "link",
+				"url": ""
+			},
+			{
+				"name": "video",
+				"url": ""
+			}
+		]
+	},
+
+	{
 		"id": 10,
 		"author": "R Asim, L Subramanian, and Y Zaki",
 		"title": "Impact of Congestion Control on Mixed Reality Applications",
